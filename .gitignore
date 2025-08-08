@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+linknife
+*.log
+*.db
+test.sh
+*.json
